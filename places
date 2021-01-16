@@ -1,0 +1,205 @@
+;;; -*- coding: utf-8 -*-
+(("/home/ovozlj/.emacs.d.bak/init.el" . 884)
+ ("/home/ovozlj/.emacs.d/init.el" . 3963)
+ ("/home/ovozlj/Dropbox/diary/2021_1_12.org" . 21)
+ ("/home/ovozlj/Dropbox/diary/2021_1_11.org" . 250)
+ ("/home/ovozlj/.config/zathura/zathurarc" . 35)
+ ("/home/ovozlj/.emacs.d/recentf" . 5517)
+ ("/home/ovozlj/Dropbox/diary/"
+  (dired-filename . "/home/ovozlj/Dropbox/diary/2020_12_24.org.gpg"))
+ ("/home/ovozlj/Demo.java" . 3482)
+ ("/usr/share/emacs/27.1/lisp/net/tramp.el.gz" . 13506)
+ ("/home/ovozlj/MultiThread.java" . 884)
+ ("/usr/share/emacs/27.1/lisp/progmodes/cc-styles.el.gz" . 1751)
+ ("/usr/share/emacs/27.1/lisp/progmodes/cc-vars.el.gz" . 39724)
+ ("/usr/share/emacs/27.1/lisp/progmodes/cc-mode.el.gz" . 106804)
+ ("/home/ovozlj/demo.c" . 111)
+ ("/home/ovozlj/.zshrc" . 3967)
+ ("/home/ovozlj/Dropbox/tor.org" . 67)
+ ("/home/ovozlj/org/seven_days.org" . 2)
+ ("/home/ovozlj/Dropbox/org/roam/20201128134829-数据结构与算法.org" . 19)
+ ("/home/ovozlj/TimePrinter.java" . 394)
+ ("/home/ovozlj/WeiboSql.java" . 854)
+ ("/home/ovozlj/Desktop/norest/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src"))
+ ("/home/ovozlj/Desktop/norest/src/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main"))
+ ("/home/ovozlj/Desktop/norest/src/main/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main/java"))
+ ("/home/ovozlj/Desktop/norest/src/main/java/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main/java/com"))
+ ("/home/ovozlj/Desktop/norest/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main/java/com/noddles"))
+ ("/home/ovozlj/Desktop/norest/src/main/java/com/noddles/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main/java/com/noddles/norest"))
+ ("/home/ovozlj/Desktop/norest/src/main/java/com/noddles/norest/"
+  (dired-filename . "/home/ovozlj/Desktop/norest/src/main/java/com/noddles/norest/NorestApplication.java"))
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/example/norest/EmployeeRepository.java" . 92)
+ ("/home/ovozlj/springBootDemo/src/main/java/com/example/demo/dao/PersonDataAccessService.java" . 985)
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/example/norest/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/java/com/example/norest/.."))
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/example/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/java/com/example/.."))
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/java/com/.."))
+ ("/home/ovozlj/Downloads/norest/src/main/java/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/java/.."))
+ ("/home/ovozlj/Downloads/norest/src/main/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/resources"))
+ ("/home/ovozlj/Downloads/norest/src/main/resources/"
+  (dired-filename . "/home/ovozlj/Downloads/norest/src/main/resources/application.properties"))
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/example/norest/WeiboRepository.java" . 147)
+ ("/home/ovozlj/Downloads/norest/src/main/resources/application.properties" . 110)
+ ("/home/ovozlj/Downloads/norest/src/main/java/com/example/norest/LoadDatabase.java" . 458)
+ ("/home/ovozlj/Downloads/norest/pom.xml" . 681)
+ ("/home/ovozlj/Downloads/weibo/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/Downloads/weibo/src/main/java/com/example"))
+ ("/home/ovozlj/Downloads/weibo/src/main/java/com/example/"
+  (dired-filename . "/home/ovozlj/Downloads/weibo/src/main/java/com/example/weibo"))
+ ("/home/ovozlj/Downloads/weibo/src/main/java/com/example/weibo/"
+  (dired-filename . "/home/ovozlj/Downloads/weibo/src/main/java/com/example/weibo/WeiboApplication.java"))
+ ("/home/ovozlj/weibo.py" . 799)
+ ("/home/ovozlj/org/深入理解虚拟机自我QA.org" . 76)
+ ("/home/ovozlj/org/深入理解虚拟机笔记.org" . 11086)
+ ("/home/ovozlj/org/emacs.org" . 373)
+ ("/home/ovozlj/org/20201127203624-demo2_org.org" . 66)
+ ("/home/ovozlj/org/20201127203115-demo_org.org" . 19)
+ ("/home/ovozlj/Dropbox/org/roam/20201129020527-java基础.org" . 8661)
+ ("/home/ovozlj/Dropbox/org/roam/20201129035450-6_031.org" . 3282)
+ ("/home/ovozlj/Dropbox/org/roam/daily/2020-12-15.org" . 530)
+ ("/home/ovozlj/Dropbox/notes/java面试.org" . 165)
+ ("/home/ovozlj/org/Solution.java" . 654)
+ ("/home/ovozlj/Desktop/spring揭秘(完整).pdf"
+  (pdf-view-bookmark "spring揭秘(完整).pdf"
+                     (filename . "~/Desktop/spring揭秘(完整).pdf")
+                     (position . 1)
+                     (page . 1)
+                     (slice)
+                     (size . fit-width)
+                     (origin 0.0 . 0.5663621708758733)
+                     (handler . pdf-view-bookmark-jump-handler)))
+ ("/home/ovozlj/first/src/main/"
+  (dired-filename . "/home/ovozlj/first/src/main/java"))
+ ("/home/ovozlj/first/src/main/java/"
+  (dired-filename . "/home/ovozlj/first/src/main/java/com"))
+ ("/home/ovozlj/first/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/first/src/main/java/com/example"))
+ ("/home/ovozlj/first/src/main/java/com/example/"
+  (dired-filename . "/home/ovozlj/first/src/main/java/com/example/first"))
+ ("/home/ovozlj/first/src/main/java/com/example/first/"
+  (dired-filename . "/home/ovozlj/first/src/main/java/com/example/first/FirstApplication.java"))
+ ("/home/ovozlj/first/src/main/java/com/example/first/FirstApplication.java" . 309)
+ ("/home/ovozlj/first/pom.xml" . 760)
+ ("/home/ovozlj/first/mvnw" . 1888)
+ ("/home/ovozlj/first/src/main/java/com/example/first/Greeting.java" . 28)
+ ("/home/ovozlj/first/src/main/java/com/example/first/GreetingController.java" . 44)
+ ("/home/ovozlj/Desktop/深入理解虚拟机自我QA.org" . 30)
+ ("/home/ovozlj/Desktop/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf"
+  (pdf-view-bookmark "深入理解Java虚拟机：JVM高级特性与最佳实践.pdf"
+                     (filename . "~/Desktop/深入理解Java虚拟机：JVM高级特性与最佳实践.pdf")
+                     (position . 1)
+                     (page . 1)
+                     (slice)
+                     (size . fit-width)
+                     (origin 0.0 . 0.07074910820451842)
+                     (handler . pdf-view-bookmark-jump-handler)))
+ ("/home/ovozlj/english-dictionary/OALD4/OALD4_edited.txt" . 446)
+ ("/home/ovozlj/Dropbox/org/roam/daily/2020-12-06.org" . 25)
+ ("/home/ovozlj/Documents/seven_days/timer.org" . 2046)
+ ("/home/ovozlj/Dropbox/org/roam/20201128225409-cs50.org" . 46)
+ ("/home/ovozlj/Desktop/library/src/main/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main/java"))
+ ("/home/ovozlj/Desktop/library/src/main/java/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main/java/com"))
+ ("/home/ovozlj/Desktop/library/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main/java/com/spike"))
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main/java/com/spike/library"))
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/LibraryApplication.java" . 313)
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main/java/com/spike/library/Model"))
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/model/Borrow.java" . 28)
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/model/Librarian.java" . 28)
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/model/Reader.java" . 220)
+ ("/home/ovozlj/Desktop/library/src/main/java/com/spike/library/model/Book.java" . 28)
+ ("/home/ovozlj/图书馆管理系统源码/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library"))
+ ("/home/ovozlj/图书馆管理系统源码/library/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/poi/excel/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/poi/excel/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/poi/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/poi/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/core/easyui/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/core/easyui/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/core/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/core/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/vo/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/vo/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/tag/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/web/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/web/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/model/common/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/model/common/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/model/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/model/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/hibernate/dialect/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/hibernate/dialect/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/hibernate/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/hibernate/.."))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/entity/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/entity/IdEntity.java"))
+ ("/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/"
+  (dired-filename . "/home/ovozlj/图书馆管理系统源码/library/src/main/java/com/bjpowernode/core/common/entity"))
+ ("/home/ovozlj/demo/"
+  (dired-filename . "/home/ovozlj/demo/src"))
+ ("/home/ovozlj/demo/src/"
+  (dired-filename . "/home/ovozlj/demo/src/main"))
+ ("/home/ovozlj/demo/src/main/"
+  (dired-filename . "/home/ovozlj/demo/src/main/java"))
+ ("/home/ovozlj/demo/src/main/java/"
+  (dired-filename . "/home/ovozlj/demo/src/main/java/com"))
+ ("/home/ovozlj/Desktop/library/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src"))
+ ("/home/ovozlj/Desktop/library/src/"
+  (dired-filename . "/home/ovozlj/Desktop/library/src/main"))
+ ("/home/ovozlj/图书馆管理系统源码/说明.txt" . 110)
+ ("/home/ovozlj/blog/src/main/java/com/spike1112/blog/model/JacksonExample1.java" . 421)
+ ("/home/ovozlj/Documents/skeleton-sp19/"
+  (dired-filename . "/home/ovozlj/Documents/skeleton-sp19/lab11"))
+ ("/home/ovozlj/Documents/skeleton-sp19/lab11/"
+  (dired-filename . "/home/ovozlj/Documents/skeleton-sp19/lab11/MergeSort.java"))
+ ("/home/ovozlj/Documents/skeleton-sp19/lab11/MergeSort.java" . 1148)
+ ("/home/ovozlj/Documents/seven_days/algs.md" . 5160)
+ ("/home/ovozlj/Documents/skeleton-sp19/proj1a/LinkedListDequeTest.java" . 770)
+ ("/home/ovozlj/Documents/skeleton-sp19/proj1a/LinkedListDeque.java" . 689)
+ ("/home/ovozlj/skeleton-sp19/"
+  (dired-filename . "/home/ovozlj/skeleton-sp19/hw4"))
+ ("/home/ovozlj/skeleton-sp19/hw4/"
+  (dired-filename . "/home/ovozlj/skeleton-sp19/hw4/bearmaps"))
+ ("/home/ovozlj/skeleton-sp19/hw4/bearmaps/"
+  (dired-filename . "/home/ovozlj/skeleton-sp19/hw4/bearmaps/hw4"))
+ ("/home/ovozlj/skeleton-sp19/hw4/bearmaps/hw4/"
+  (dired-filename . "/home/ovozlj/skeleton-sp19/hw4/bearmaps/hw4/AStarSolver.java"))
+ ("/home/ovozlj/skeleton-sp19/hw4/bearmaps/hw4/AStarSolver.java" . 382)
+ ("/home/ovozlj/Dropbox/org/roam/20201127213543-emacs.org" . 98)
+ ("/home/ovozlj/Documents/seven_days/algs.org" . 2997)
+ ("/usr/share/emacs/27.1/lisp/org/org.el.gz" . 13426)
+ ("/home/ovozlj/.oh-my-zsh/"
+  (dired-filename . "/home/ovozlj/.oh-my-zsh/cache"))
+ ("/home/ovozlj/.emacs.d/"
+  (dired-filename . "/home/ovozlj/.emacs.d/auto-save-list"))
+ ("/home/ovozlj/Documents/seven_days/left-child_right-sibling.png" . 5))
