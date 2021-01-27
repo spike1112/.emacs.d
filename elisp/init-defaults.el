@@ -10,6 +10,7 @@
 (show-paren-mode 1)
 
 (setq-default
+ 
  inhibit-startup-message t
  inhibit-startup-screen t
  inhibit-x-resources t

@@ -90,4 +90,15 @@
   :init
   (yas-global-mode 1))
 
+
+(use-package magit
+  :ensure t
+  :bind ("C-x g" . magit-status))
+
+(use-package paredit
+  :config
+  (add-hook 'emacs-lisp-mode-hook 'paredit-mode)
+)
+
+
 (provide 'init-packages)
