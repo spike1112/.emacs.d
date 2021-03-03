@@ -8,6 +8,7 @@
 (fset 'yes-or-no-p 'y-or-n-p)
 (display-time-mode 1)
 (show-paren-mode 1)
+(setq make-backup-files nil)
 
 (setq-default
  
